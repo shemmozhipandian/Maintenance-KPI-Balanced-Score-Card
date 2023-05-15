@@ -18,4 +18,5 @@ Maintenance Balanced Score Card
 ![image](https://github.com/shemmozhipandian/Maintenance-KPI-Balanced-Score-Card/assets/9448701/ddaf2b44-4644-4422-8643-24ccca6d7b6e)
 ![image](https://github.com/shemmozhipandian/Maintenance-KPI-Balanced-Score-Card/assets/9448701/a05cc23b-6cbc-4f48-a1fc-b94acdbc811c)
 ![image](https://github.com/shemmozhipandian/Maintenance-KPI-Balanced-Score-Card/assets/9448701/984741a1-15da-46f4-a11c-892a7647a05e)
+[Maintenance KPI Balanced Score Card_V1.pdf](https://github.com/shemmozhipandian/Maintenance-KPI-Balanced-Score-Card/files/11474232/Maintenance.KPI.Balanced.Score.Card_V1.pdf)
 
