@@ -1,3 +1,4 @@
+![image](https://github.com/shemmozhipandian/Maintenance-KPI-Balanced-Score-Card/assets/9448701/8b06742d-4cb9-4751-88b0-24e839f8ce0c)
 # Maintenance-KPI-Balanced-Score-Card
 Maintenance KPI Balanced Score Card using Power Bi 
 What is the Balanced Score Card?
